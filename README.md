@@ -36,6 +36,6 @@ This assignment helped me understand how Spark processes large datasets using Da
 
 # Author
 
-Vaibhav Singh - CT_CSI_DE_56
-Data Engineering Intern
-Celebal Technologies
+* Vaibhav Singh - CT_CSI_DE_56
+* Data Engineering Intern
+* Celebal Technologies
